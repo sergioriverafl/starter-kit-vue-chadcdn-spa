@@ -8,7 +8,6 @@ import {
   BreadcrumbSeparator,
 } from '@/components/ui/breadcrumb'
 import { RouterLink } from 'vue-router'
-// import { Link } from '@inertiajs/vue3';
 
 interface BreadcrumbItem {
   title: string

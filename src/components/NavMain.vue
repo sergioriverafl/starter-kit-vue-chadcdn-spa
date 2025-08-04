@@ -8,7 +8,6 @@ import {
 } from '@/components/ui/sidebar'
 import { type NavItem } from '@/types'
 import { RouterLink } from 'vue-router'
-// import { Link, usePage } from '@inertiajs/vue3';
 
 defineProps<{
   items: NavItem[]
